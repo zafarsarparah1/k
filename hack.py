@@ -1,21 +1,4 @@
-TheZafar
-/
-cloner
-1
-04
- Code
- Issues 0
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
-cloner/id.py /
-@zafarsarparah1 id Update id.py
-26eb616 24 days ago
-499 lines (461 sloc)  21.3 KB
-  
-﻿#!/usr/bin/python2
+#!/usr/bin/python2
 #coding=utf-8
 
 
